@@ -7,6 +7,7 @@ class AboutViewController: UIViewController {
   
   @IBAction func handleShowHideTapped(sender: AnyObject) {
     
+    // first commit comment
   }
   
 }
